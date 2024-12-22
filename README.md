@@ -1,5 +1,4 @@
 # Básico de Kubernetes
 
-## Pods, Services e ConfigMaps
-
-![alt text](image.png)
+## Pods, Services, ConfigMaps, Deployments
+![alt text](image-1.png)
